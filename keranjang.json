@@ -1,0 +1,63 @@
+{
+  "cart": [
+    {
+      "userId": 1,
+      "id": 1616947501387,
+      "nama": "XIAOMI NOTE 9 4/64 & 6/128",
+      "harga": 2479000,
+      "total_qty": 2,
+      "total_harga": 4958000
+    },
+    {
+      "userId": 1,
+      "id": 1617197805128,
+      "nama": "XIAOMI NOTE 9 4/64 & 6/128",
+      "harga": 2479000,
+      "total_qty": 1,
+      "total_harga": 2479000
+    },
+    {
+      "userId": 1,
+      "id": 1617197855993,
+      "nama": "XIAOMI NOTE 9 4/64 & 6/128",
+      "harga": 2479000,
+      "total_qty": 1,
+      "total_harga": 2479000
+    },
+    {
+      "userId": 1,
+      "id": 1617198208009,
+      "nama": "XIAOMI NOTE 9 4/64 & 6/128",
+      "harga": 2479000,
+      "total_qty": 2,
+      "total_harga": 4958000
+    },
+    {
+      "userId": 3,
+      "id": 1617203357131,
+      "nama": "iPhone 12 Pro Max 256GB",
+      "harga": 22290000,
+      "total_qty": 5,
+      "total_harga": 111450000
+    },
+    {
+      "userId": 1,
+      "id": 1649745018670,
+      "nama": "XIAOMI NOTE 9 4/64 & 6/128",
+      "harga": 2479000,
+      "total_qty": 1,
+      "total_harga": 2479000
+    },
+    {
+      "userId": 5,
+      "id": 1649745034609,
+      "nama": "vivo Y30 ",
+      "harga": 2460000,
+      "total_qty": 1,
+      "total_harga": 2460000
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
